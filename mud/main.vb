@@ -26,7 +26,7 @@
     End Class
 #End Region
 #Region "Story Class"
-
+    'Test story implement Do not use!
     Dim livingroom = New DecisionAsGraph With
            {
         .Title = "Living room",
