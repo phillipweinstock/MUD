@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("mud")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("Department of Education and Early Childhood Development")>
+<Assembly: AssemblyCompany("Phillip")>
 <Assembly: AssemblyProduct("mud")>
-<Assembly: AssemblyCopyright("Copyright © Department of Education and Early Childhood Development 2016")>
+<Assembly: AssemblyCopyright("Copyright © Phillip weinstock All rights reserved")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
